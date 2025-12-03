@@ -1,0 +1,5 @@
+{
+  "name": "Smart PDF Splitter & Analyzer",
+  "description": "A browser-based tool to analyze PDF pages for color coverage, categorize them, and generate print ranges.",
+  "requestFramePermissions": []
+}
